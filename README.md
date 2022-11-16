@@ -12,3 +12,7 @@
 총의 종류와 남은 탄의 개수, Player의 HP로 구성
 
 ![화면 구성](./image/gameScreen.jpg)
+
+- 게임 실행 영상
+
+[![실행 영상](http://img.youtube.com/vi/-iDMaHeTegE/0.jpg)](https://youtu.be/-iDMaHeTegE)
